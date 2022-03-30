@@ -1,0 +1,5 @@
+secrets/**
+*.pem
+*.pyc
+credential.*
+auth.*
